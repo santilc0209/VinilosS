@@ -30,7 +30,7 @@ Cada entidad cuenta con **4 métodos principales**:
 ## ⚙️ Instalación
 
 1. Clonar el repositorio:
-   git clone https://github.com/TU_USUARIO/fastapi-vinilos.git
+   git clone https://github.com/santilc0209/VinilosS.git
    cd fastapi-vinilos
 
 2. Crear y activar entorno virtual:
